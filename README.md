@@ -1,8 +1,8 @@
 # Exercises for programmers - Elixir edition
 
-All the 57 exercises from the Exercises for Programmers book by Brian P. Hogan.
+All the 57 exercises from the [Exercises for Programmers book](https://pragprog.com/book/bhwb/exercises-for-programmers) by Brian P. Hogan.
 
-This repo has the Elixir version
+This repo has the Elixir version with the **constrains** mentioned in the book but not any of the **challenges**.
 
 To use each exercise, you only need to run
 
@@ -15,7 +15,7 @@ elixir folder/main.exs
 ### Input, processsing, and output
 
 - [x] 1. [Saying Hello](/01_saying_hello)
-- [ ] 2. Counting the Number of Characters
+- [x] 2. [Counting the Number of Characters](/02_counting_the_number_of_characters)
 - [ ] 3. Printing Quotes
 - [ ] 4. Mad Lib
 - [ ] 5. Simple Math
