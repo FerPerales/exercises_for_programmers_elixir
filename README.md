@@ -4,11 +4,17 @@ All the 57 exercises from the Exercises for Programmers book by Brian P. Hogan.
 
 This repo has the Elixir version
 
+To use each exercise, you only need to run
+
+```bash
+elixir folder/main.exs
+```
+
 ## List of exercises
 
 ### Input, processsing, and output
 
-- [ ] 1. Saying Hello
+- [x] 1. [Saying Hello](/01_saying_hello)
 - [ ] 2. Counting the Number of Characters
 - [ ] 3. Printing Quotes
 - [ ] 4. Mad Lib
