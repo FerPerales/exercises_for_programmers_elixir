@@ -1,8 +1,9 @@
-defmodule SayingHello do
-  def main() do
+defmodule Main do
+  def start() do
     name = IO.gets("What is your name? ") |> String.trim
-    IO.puts "Hello, #{name |> String.trim}, nice to meet you!"
+    greeting = "Hello, #{name |> String.trim}, nice to meet you!"
+    IO.puts greeting
   end
 end
 
-SayingHello.main
+Main.start
