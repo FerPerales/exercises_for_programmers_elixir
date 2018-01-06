@@ -16,7 +16,7 @@ elixir folder/main.exs
 
 - [x] 1. [Saying Hello](/01_saying_hello)
 - [x] 2. [Counting the Number of Characters](/02_counting_the_number_of_characters)
-- [ ] 3. Printing Quotes
+- [x] 3. Printing Quotes
 - [ ] 4. Mad Lib
 - [ ] 5. Simple Math
 - [ ] 6. Retirement Calculator
